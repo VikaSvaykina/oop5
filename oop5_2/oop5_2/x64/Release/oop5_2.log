@@ -1,0 +1,6 @@
+﻿  oop5_2.cpp
+C:\Users\svayk\source\repos\oop5_2\oop5_2\oop5_2.cpp(14,26): error C2440: -: невозможно преобразовать "Manul *" в "_Ty"
+          with
+          [
+              _Ty=Animal *
+          ]
